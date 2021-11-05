@@ -8,6 +8,9 @@
 <h1><%= "Welcome Guest" %>
 </h1>
 <br/>
-<a href="/servlet">Click to see the content of the uploaded file</a>
+<a href="/servlet">Click to see the content of the uploaded file</a> <br>
+<a href="/servlet">Click to see the content of the uploaded file</a> <br>
+<a href="/servlet">Click to see the content of the uploaded file</a> <br>
+
 </body>
 </html>
